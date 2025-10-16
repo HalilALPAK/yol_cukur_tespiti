@@ -186,4 +186,7 @@ https://github.com/user-attachments/assets/8dbe1804-30b3-4a41-85c0-faa1aba89ce5
 - **Telegram Uyarıları**: Tespit görüntüleri ile Telegram'a otomatik mesajlar
 
 
+<img width="1488" height="1012" alt="yol_tespit_telegram" src="https://github.com/user-attachments/assets/adeed9f3-046c-4762-add9-d129045b23bc" />
+
+<img width="998" height="911" alt="yol_tespit_N8N" src="https://github.com/user-attachments/assets/53d3d784-18a8-44c8-8d02-d6c1a9debb2b" />
 
