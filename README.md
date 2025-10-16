@@ -77,6 +77,7 @@ This project uses a custom-trained YOLO model (`yol_best.pt`) to detect potholes
 #### Image Detection
 
 ![yol_test](https://github.com/user-attachments/assets/f8f0c5c7-b01f-46d4-80af-0423bed786b6)
+
 ![test_result](https://github.com/user-attachments/assets/1182ab0b-7ef2-4eab-80f8-fdde29993b0e)
 
 **Video features:**
@@ -167,7 +168,9 @@ Bu proje, özel olarak eğitilmiş bir YOLO modeli (`yol_best.pt`) ile yol video
 ![Görsel Tespit Sonucu](test_resu![yol_test](https://github.com/user-attachments/assets/6a1820dc-fa08-41ec-83bc-f9355242e698)
 lt.jpg)
 
+
 ![test_result](https://github.com/user-attachments/assets/b894fd9f-70fd-4766-aa65-6c50b4962d43)
+
 
 #### Video Tespiti
 
@@ -189,4 +192,5 @@ https://github.com/user-attachments/assets/8dbe1804-30b3-4a41-85c0-faa1aba89ce5
 <img width="1488" height="1012" alt="yol_tespit_telegram" src="https://github.com/user-attachments/assets/adeed9f3-046c-4762-add9-d129045b23bc" />
 
 <img width="998" height="911" alt="yol_tespit_N8N" src="https://github.com/user-attachments/assets/53d3d784-18a8-44c8-8d02-d6c1a9debb2b" />
+
 
