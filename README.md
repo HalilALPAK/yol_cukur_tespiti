@@ -1,4 +1,4 @@
-# Pothole Detection with YOLO (English & Türkçe)
+# Pothole Detection with YOLO
 
 ---
 
@@ -76,16 +76,8 @@ This project uses a custom-trained YOLO model (`yol_best.pt`) to detect potholes
 
 #### Image Detection
 
-![Image Detection Result](yol_test.jpeg)
-_Original test image_
-
-![Image Detection Result](test_result.jpg)
-_Pothole detection result on test image_
-
-#### Video Detection
-
-![Video Detection Result](cukur_tespit_sonuc.mp4)
-_Processed video with pothole detections_
+![yol_test](https://github.com/user-attachments/assets/f8f0c5c7-b01f-46d4-80af-0423bed786b6)
+![test_result](https://github.com/user-attachments/assets/1182ab0b-7ef2-4eab-80f8-fdde29993b0e)
 
 **Video features:**
 
@@ -172,16 +164,17 @@ Bu proje, özel olarak eğitilmiş bir YOLO modeli (`yol_best.pt`) ile yol video
 
 #### Görsel Tespiti
 
-![Görsel Tespit Sonucu](yol_test.jpeg)
-_Orijinal test görseli_
+![Görsel Tespit Sonucu](test_resu![yol_test](https://github.com/user-attachments/assets/6a1820dc-fa08-41ec-83bc-f9355242e698)
+lt.jpg)
 
-![Görsel Tespit Sonucu](test_result.jpg)
-_Test görselinde çukur tespit sonucu_
+![test_result](https://github.com/user-attachments/assets/b894fd9f-70fd-4766-aa65-6c50b4962d43)
 
 #### Video Tespiti
 
-![Video Tespit Sonucu](cukur_tespit_sonuc.mp4)
-_Çukur tespitli işlenmiş video_
+
+https://github.com/user-attachments/assets/8dbe1804-30b3-4a41-85c0-faa1aba89ce5
+
+
 
 **Video özellikleri:**
 
@@ -192,8 +185,5 @@ _Çukur tespitli işlenmiş video_
 - **N8N Entegrasyonu**: Frame görselleri ile webhook bildirimleri
 - **Telegram Uyarıları**: Tespit görüntüleri ile Telegram'a otomatik mesajlar
 
----
 
-**Contact / İletişim:**
-For questions, open an issue or contact the project owner.
-Sorularınız için issue açabilir veya proje sahibiyle iletişime geçebilirsiniz.
+
